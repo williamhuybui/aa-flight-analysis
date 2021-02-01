@@ -1,6 +1,6 @@
 # American Airline Flight Analysis
 
-<img src="Picture/dashboard.jpg" alt="Italian Trulli">
+<img src="Picture/dashboard.png" alt="">
 
 ## Inspiration
 Have you ever wonder:
